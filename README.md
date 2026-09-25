@@ -6,3 +6,28 @@ Author - Eisha Zafar
 My first commit after fresh start
 hello github
 very tough and working learning commands
+
+folder k ander git repository
+git init
+
+download k liyay
+git clone link
+https://github.com/zafareisha216-debug/Eisha-work.git
+
+folder k ander jany k liyay
+cd   folder ka name jo github p h 
+
+cd ..  ik step back
+
+git status 
+check the file that are red 
+
+git add . 
+file add k liyay
+
+git commit -m "message"
+
+git push origin main
+upload work github
+
+
