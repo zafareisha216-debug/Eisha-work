@@ -7,6 +7,12 @@ My first commit after fresh start
 hello github
 very tough and working learning commands
 
+ls -Force
+show all files folders
+
+ls
+show only file that selected are on working
+
 folder k ander git repository
 git init
 
